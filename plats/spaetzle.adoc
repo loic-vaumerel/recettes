@@ -1,0 +1,35 @@
+= Spaetzle - Pâtes Alsaciennes
+
+== Informations
+
+* Pour 4 personnes
+* Temps total : 35 min
+** Préparation : 15 min
+** Cuisson : 20 min
+
+Les spaetzle servent d’accompagnement à de nombreuses recettes d’Alsace.
+
+Cuisson en 2 temps
+
+== Ingrédients
+
+|===
+|500 gr|Farine de type 45
+|5|Oeufs
+|25 cl|Eau
+|5 gr|Sel
+|===
+
+== Etapes
+
+. Faire bouillir une grande quantité d’eau.
+. Préparer un grand récipient d'eau froide.
+. Dans un récipient battre les oeufs (5), l’eau (25 cl) et le sel (5 gr).
+. Ajouter la farine (500 gr) et battre jusqu’à obtenir une pâte homogène.
+. Répandre une louche de pâte sur une planchette. A l’aide d’un couteau, faire « glisser » des filaments de pâte dans l’eau bouillante. Lorsque les filaments de pâte remontent à la surface (2-3 mn), les spaetzles sont cuits.
+. Une fois cuits, retirer les spaetzles de l’eau bouillante à l’aide d’une écumoire et les refroidir en les plongeant dans de l’eau froide. Egoutter et réserver. Répeter l’opération de cuisson et refroidissement autant de fois que nécéssaire pour le restant de pâte.
+. Faire revenir les spaetzles dans une poêle avec un peu d’huile ou de beurre pour les chauffer et les colorer.
+
+== Liens
+
+https://www.recettes-alsace.fr/spaetzle-pates-alsaciennes/
