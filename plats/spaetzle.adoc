@@ -1,12 +1,8 @@
 = Spaetzle - Pâtes Alsaciennes
 
-[cols="1,1,1,1"]
-|===
-|Pour 4 personnes
-|Temps total : 35 min
-|Préparation : 15 min
-|Cuisson : 20 min
-|===
+[%hardbreaks]
+Pour 4 personnes
+Temps total : 35 min &nbsp;&nbsp;&nbsp;&nbsp; (préparation : 15 min / cuisson : 20 min)
 
 == Ingrédients
 
