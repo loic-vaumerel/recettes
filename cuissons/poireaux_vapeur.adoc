@@ -1,2 +1,16 @@
-1 l d'eau dans le réservoir du cuiseur
-35 min
+= Cuisson Poireaux à la vapeur
+
+[%hardbreaks]
+Temps total : 35 min
+
+== Ingrédients
+
+[%hardbreaks]
+4 poireaux
+
+== Etapes
+
+. Mettre 1l d'eau dans le réservoir du cuiseur et mettre à chauffer
+. Eliminer les feuilles abimées
+. Couper en petits tronçons
+. Cuire 35 min sur feu vif (gaz)
