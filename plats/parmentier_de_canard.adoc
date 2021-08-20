@@ -32,4 +32,6 @@ chapelure
 . Cuire 25 min au four à 200°C
 
 == Informations
+
+[%hardbreaks]
 Dimension du plat : 25 x 20 x 8
