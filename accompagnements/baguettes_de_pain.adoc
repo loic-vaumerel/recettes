@@ -1,0 +1,20 @@
+= Baguettes de ain
+
+[%hardbreaks]
+Pour x personnes
+Temps total : xx min &nbsp;&nbsp;&nbsp;&nbsp; (préparation : xx min / cuisson : xx min)
+
+== Ingrédients
+
+[%hardbreaks]
+ingredient1
+ingredientx
+
+== Etapes
+
+. etape1
+. etapex
+
+== Informations
+
+[%hardbreaks]
