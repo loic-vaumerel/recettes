@@ -1,8 +1,8 @@
 = Pâte à Pizza
 
 [%hardbreaks]
-Pour 4 personnes
-Temps total : 1 h 5 min &nbsp;&nbsp;&nbsp;&nbsp; (préparation : 5 min / cuisson : 1 h)
+Pour 6 personnes
+Temps total : 1 h 5 min &nbsp;&nbsp;&nbsp;&nbsp; (préparation : 5 min / repos : 1 h)
 
 == Ingrédients
 
