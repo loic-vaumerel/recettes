@@ -18,3 +18,7 @@ ingredientx
 == Informations
 
 [%hardbreaks]
+
+== Liens
+
+[%hardbreaks]
