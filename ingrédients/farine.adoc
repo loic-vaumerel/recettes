@@ -1,6 +1,7 @@
 [cols="1,1,1,1"]
 |===
 |Type France|Type Allemagne|Description|Utilisation
+
 |T45|405|Farine fluide|Farine à pâtisserie blanche
 |T55|550|Farine tout usage blanche|Gâteau
 |T65|650|Farine tout usage non blanchie|Pain
