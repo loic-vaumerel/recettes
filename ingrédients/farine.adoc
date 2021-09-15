@@ -10,3 +10,12 @@
 |T150|1050 > 1600|Farine de blé intégrale|
 ||970 et 1350|Farine de seigle|Pain allemands
 |===
+
+[cols="1,1,1,1,1"]
+|===
+|Type USA|Finesse|Teneur en Protéines|Gluten|Utilisation
+
+|0|Grossière (impuretés et restes de grain)|||
+|00 et 000|Moyenne|Elevée|Facilite la formation de gluten|Pain
+|0000|Très raffinée et blanche||Peu de gluten|Boulangerie
+|===
