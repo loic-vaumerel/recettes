@@ -1,0 +1,11 @@
+[cols="1,1,1,1"]
+|===
+|Type France|Type Allemagne|Description|Utilisation
+|T45|405|Farine fluide|Farine à pâtisserie blanche
+|T55|550|Farine tout usage blanche|Gâteau
+|T65|650|Farine tout usage non blanchie|Pain
+|T80|812|Farine bise / Farine semi-complète|Pain de blé entier
+|T110||Farine de blé entier|
+|T150|1050 > 1600|Farine de blé intégrale|
+||970 et 1350|Farine de seigle|Pain allemands
+|===
