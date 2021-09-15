@@ -1,0 +1,7 @@
+[cols="1,1,1,1"]
+|===
+|Pizza pâte épaisse
+|Four
+|160 °C
+|15 min
+|=== 
