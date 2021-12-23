@@ -1,7 +1,7 @@
 = Pâtes
 
 [%hardbreaks]
-Pour ? personnes
+Pour 2 personnes
 Temps total : 1 h &nbsp;&nbsp;&nbsp;&nbsp; (préparation : 30 min / repos : 30 min)
 
 == Ingrédients
