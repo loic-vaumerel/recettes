@@ -1,5 +1,59 @@
-https://lacuisinedannie.20minutes.fr/recette-choucroute-alsacienne-45.html
+= Choucroute
 
-assoisonnement choucroute
-  bouillon : sel, oignon, fecule PdT, ail, cumin, romarin, gingembre, carotte, panais, genièvre, poireau, poibre, livèche, thym, sariette, coriandre, laurier
-  graisse de canard, huile de tournesol
+[%hardbreaks]
+Pour 6 personnes
+Temps total : 2 h &nbsp;&nbsp;&nbsp;&nbsp; (préparation : 20 min / cuisson : 1 h 30 min)
+
+== Ingrédients
+
+[%hardbreaks]
+1 kg de choucroute crue
+1 oignon
+1 gousse d'ail
+1 carotte
+1 càc de cumin non moulu
+1 càc de coriandre en grain
+3 feuilles de laurier
+12 baies de genièvre
+1 Battin Gambrinus 50 cl
+1/2 litre de bouillon de légumes
+800 g d'épaule fumée
+4 saucisses de strasbourg
+4 knacks
+4 saucisses fumées
+graisse de canard
+poivre
+sel (si besoin)
+250 g de pommes de terre à chair ferme (option)
+
+
+== Etapes
+
+. Option : Cuire les pommes de terre dans une casserole d'eau salée pendant 15 min (départ à froid)
+. Rincer la choucroute dans une passoire avec de l'eau très chaude
+. Hacher l'oignon et la carotte extrêmement fin (quasiment en purée, à l'aide d'un mixeur 4 lames)
+. Réduire la coriandre et le cumin en poudre dans un mortier
+. Dans un grand wok faire revenir l'oignon et la carotte à feu vif dans la graisse de canard
+. Ajouter l'ail passé au presse-ail puis le cumin et la coriandre
+. Ajouter la choucroute et mélanger
+. Déglacer avec la bière
+. Après quelques minutes ajouter le bouillon puis le laurier et le genièvre
+. Poivrer et saler
+. Laisser mijoter à couvert (plaque électrique à 3/6) pendant 45 min (en remuant toutes les 15 min)
+. Ajouter la viande (couper les saucisses fumées une fois dans la longueur et une fois dans la largeur, couper l'épaule en gros morceaux)
+. Laisser mijoter à couvert (plaque électrique à 3/6) pendant 30 min (en remuant toutes les 15 min)
+. Ajouter les pommes de terre sous la choucroute
+. Laisser mijoter à couvert (plaque électrique à 3/6) pendant 15 min
+
+== Informations
+
+[%hardbreaks]
+assaisonnement choucroute industrielle bonne
+&nbsp;&nbsp;bouillon : sel, oignon, fecule PdT, ail, cumin, romarin, gingembre,
+&nbsp;&nbsp;carotte, panais, genièvre, poireau, poivre, livèche, thym, sariette,
+&nbsp;&nbsp;coriandre, laurier, graisse de canard, huile de tournesol
+
+== Liens
+
+[%hardbreaks]
+https://lacuisinedannie.20minutes.fr/recette-choucroute-alsacienne-45.html
