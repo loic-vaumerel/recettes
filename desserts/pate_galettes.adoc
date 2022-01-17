@@ -1,0 +1,30 @@
+= Pâte à galettes
+
+[%hardbreaks]
+Pour x personnes
+Temps total : xx min &nbsp;&nbsp;&nbsp;&nbsp; (préparation : xx min / cuisson : xx min)
+
+== Ingrédients
+
+[%hardbreaks]
+25 cl de lait
+25 cl d'eau
+1 oeuf
+2 cas d'huile
+sel
+180 g de farine de blé noir
+50 g de farine de froment
+
+== Etapes
+
+. Dans un saladier, mélanger les ingrédients liquides au fouet
+. Ajouter l'oeuf et le sel
+. Ajouter la farine progressivement
+
+== Informations
+
+[%hardbreaks]
+
+== Liens
+
+[%hardbreaks]
