@@ -1,0 +1,10 @@
+= Cuisson Pommes de Terre à l'eau
+
+[%hardbreaks]
+Temps total : 30 min
+
+== Etapes
+
+. Rincer les pommes de terre
+. Mettre les pommes de terre dans la casserole et recouvrir d'eau (1 cm au dessus)
+. Faire cuire pendant 30 min (départ eau froide)
