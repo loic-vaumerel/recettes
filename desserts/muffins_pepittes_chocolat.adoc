@@ -1,0 +1,31 @@
+= Titre
+
+[%hardbreaks]
+Pour x personnes
+Temps total : xx min &nbsp;&nbsp;&nbsp;&nbsp; (préparation : xx min / cuisson : xx min)
+
+== Ingrédients
+
+[%hardbreaks]
+150g de beurre en morceau (pommade)
+100g de chocolat noir (en morceau ou pépittes)
+2 oeufs
+200g de sucre en poudre
+300g de farine de blé
+1 pincée de sel
+300g de lait
+2 cuillères à café de levure chimique (1 sachet)
+
+== Etapes
+
+. etape1
+. etapex
+
+== Informations
+
+[%hardbreaks]
+Reduire le sucre de 25%
+
+== Liens
+
+[%hardbreaks]
