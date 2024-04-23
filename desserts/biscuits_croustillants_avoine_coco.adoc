@@ -32,6 +32,8 @@ Temps total : 1h
 
 [%hardbreaks]
 Double recette
+petits : 15g
+grands : 30g
 
 == Liens
 
