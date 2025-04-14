@@ -1,0 +1,30 @@
+= Titre
+
+[%hardbreaks]
+Pour x personnes
+Temps total : xx min &nbsp;&nbsp;&nbsp;&nbsp; (préparation : xx min / cuisson : xx min)
+
+== Ingrédients
+
+[%hardbreaks]
+ingredient1
+ingredientx
+
+== Etapes
+
+. etape1
+. etapex
+
+== Informations
+
+[%hardbreaks]
+
+== Liens
+
+[%hardbreaks]
+https://www.quitoque.fr/blog/article/recette-pickles-maison
+
+14/04/2025 Pickles Oignons Rouges
+1l vinaigre crystal + 1l eau -> 9 pots de confiture
+1 pot de confiture : rempli oignons rouges + 1 feuille de laurier + 1/2 cuillère à café de coriande en grain moulue + 1/6 de piment réunionnais frais en lamelles fines
+1 pot de confiture : rempli oignons rouges + 1 feuille de laurier + 1/2 cuillère à café de coriande en grain moulue + 1/4 cuillère à café de piment en flocon (peperoncini°
