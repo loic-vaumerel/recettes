@@ -1,24 +1,39 @@
-= Titre
+= Peinture à la farine
 
 [%hardbreaks]
-Pour x personnes
-Temps total : xx min &nbsp;&nbsp;&nbsp;&nbsp; (préparation : xx min / cuisson : xx min)
+Temps total : 1h
 
 == Ingrédients
 
 [%hardbreaks]
-ingredient1
-ingredientx
+700 gr de farine
+1l + 7l d’eau
+2kg de pigments
+200 gr de sulfate de fer
+1l d’huile de lin
+10cl de savon noir
+
+(Quantités divisées par 5 pour un faitout : 3 à 4 gros pots de crème en verre)
 
 == Etapes
 
-. etape1
-. etapex
+. Délayer la farine dans 1l d’eau (et pas la totalité pour éviter les grumeaux)
+. Allonger le mélange progressivement avec 7l d’eau supplémentaires
+. Porter à ébullition en remuant
+. Ajouter les pigments et le sulfate de fer
+. Chauffer 15 min en remuant
+. Ajouter l’huile de lin
+. Cuire 15 min en remuant
+. Ajouter le savon noir
+
+Une fois refroidie, la peinture est prête. Rectifier la consistance si besoin avec un peu d’eau
 
 == Informations
 
 [%hardbreaks]
+Pour un bois neuf, passer une couche de la peinture diluée de 10 à 20% d’eau et attendre 24h pour passer la seconde couche non diluée pour la finition. Pour une peinture à l’intérieur, il n’est pas nécessaire d’incorporer du sulfate de fer.
 
 == Liens
 
 [%hardbreaks]
+https://okhra.com/fiches-techniques-recettes/la-peinture-a-la-farine/
